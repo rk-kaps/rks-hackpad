@@ -16,8 +16,8 @@ Note: To upload a custom animation, you can use the gifToBitmap.py file to conve
 
 ---
 
-## Overall Hackpad
-![Overall Hackpad](Images/IMG_1115.jpeg)
+
+
 
 ---
 
