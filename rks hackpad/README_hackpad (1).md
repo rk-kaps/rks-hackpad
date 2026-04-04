@@ -43,8 +43,6 @@ This Hackpad began as a simple volume controller. It evolved into a fully-featur
 
 </ul>
 
-> **Custom animations:** Use `gifToBitmap.py` to convert any GIF to a bitmap (must be 32px tall and ≤128px wide), then upload it to the `animation_bmps` folder on the RP2040.
-
 <hr>
 
 <h2>PCB & Schematic</h2>
