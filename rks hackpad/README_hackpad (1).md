@@ -101,7 +101,6 @@ Firmware is located in the `Deploy` folder. Flash directly to the RP2040 via USB
 <h2>Acknowledgements</h2>
 <ul>
 
-- KMK Firmware Community  
 - Good people of Hack Club  
 
 </ul>
