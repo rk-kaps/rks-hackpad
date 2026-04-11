@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="520" alt="Hackpad Main" src="Images/c.png" />
+  <img width="520" alt="Hackpad Main" src="rks hackpad/Images/c.png" />
 </p>
 
 <hr>
